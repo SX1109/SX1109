@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy SX109</h1>
+<h1 align="center">Hola 👋, soy SX1109</h1>
 <h3 align="center">Desarrollador Full Stack | Apasionado por la tecnología y los proyectos open source</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 - 🔭 Actualmente estoy trabajando en proyectos personales y colaboraciones Open Source  
 - 🌱 Estoy aprendiendo tecnologías modernas como **NestJS, Docker y Next.js**  
 - 💬 Pregúntame sobre **Java, Python, C++, Node.js y React**  
-- 📫 Cómo contactarme: **sx109.dev@gmail.com**  
+- 📫 Cómo contactarme: **sx1109.dev@gmail.com**  
 - ⚡ Curiosidad: Me encanta resolver retos técnicos y automatizar tareas cotidianas
 
 ---
@@ -28,9 +28,9 @@
 ### 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SX109&show_icons=true&theme=radical" alt="Estadísticas de SX109" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SX1109&show_icons=true&theme=radical" alt="Estadísticas de SX1109" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SX109&theme=radical" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SX1109&theme=radical" alt="Racha de contribuciones" />
 </p>
 
 ---
@@ -48,7 +48,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/tuusuario" target="_blank">🌐 LinkedIn</a> •
-  <a href="https://sx109.dev">🌐 Web personal</a> •
-  <a href="mailto:sx109.dev@gmail.com">📧 Email</a>
+  <a href="https://sx1109.dev">🌐 Web personal</a> •
+  <a href="mailto:sx1109.dev@gmail.com">📧 Email</a>
 </p>
-
